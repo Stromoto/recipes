@@ -1,0 +1,33 @@
+body {
+    font-family: Hevetica, "Times New Roman", sans-serif;
+}
+
+h1 {
+    font-size: 96px;
+    color: blue;
+    background-color: orange;
+    font-weight: bold;
+}
+
+h3 {
+    color: yellow;
+    background-color: aqua;
+    font-size: 72px;
+}
+
+p {
+    font-size: 36px;
+}
+
+.list {
+    font-size: 24px;
+}
+
+.food {
+    color: red;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
